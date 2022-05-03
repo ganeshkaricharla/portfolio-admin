@@ -1,0 +1,54 @@
+.birthdayinvite-heading {
+  margin: 10% 0;
+}
+.birthdayinvite-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.birthdayinvite-backbutton {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+}
+.birthdayinvite-form-input,
+.birthdayinvite-form-submit {
+  margin: 10% 0;
+  margin: 10px 0;
+  padding: 5px;
+  font-size: 15px;
+  outline: none;
+  border: none;
+}
+.birthdayinvite-form-input {
+  border-bottom: 1px solid black;
+}
+.birthdayinvite-form-submit {
+  background-color: #333333;
+  color: white;
+}
+
+.birthdayinvite-copylink {
+  font-size: 15px;
+}
+.birthdayinvite-form-submit {
+  background-color: #333333;
+  color: white;
+}
+.birthdayinvite-social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.birthdayinvite-social > * {
+  margin: 0 10px;
+}
+.birthdayinvite-divider {
+  margin: 10px 0;
+  color: #868686;
+}
+.birthdayinvite-social-icon {
+  font-size: 25px;
+}

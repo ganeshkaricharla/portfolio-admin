@@ -1,0 +1,25 @@
+.birthdaypage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.birthdaypage-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.birthdaypage-content {
+  display: flex;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .birthdaypage-content {
+    flex-direction: column;
+  }
+  .birthdaypage-upcoming {
+    margin: 0 0 10px 0;
+  }
+}

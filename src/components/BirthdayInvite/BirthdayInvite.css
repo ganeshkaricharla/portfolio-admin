@@ -1,0 +1,17 @@
+.birthdayinvite-container {
+  flex: 3;
+  border: 1px solid #2b2b2b88;
+  border-radius: 15px;
+  min-height: 60vh;
+  max-height: 65vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.birthdayinvite-step {
+  position: absolute;
+  bottom: 10px;
+}

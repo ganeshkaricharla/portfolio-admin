@@ -1,0 +1,14 @@
+.templatelist-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 3% 10px;;
+}
+
+.templatelist-container > * {
+    margin: 10px;
+}

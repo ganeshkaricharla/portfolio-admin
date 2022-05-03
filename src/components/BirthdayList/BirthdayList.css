@@ -1,0 +1,9 @@
+.birthdaypage-upcoming {
+  flex: 9;
+  border-radius: 15px;
+  margin: 0 20px 0 0;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

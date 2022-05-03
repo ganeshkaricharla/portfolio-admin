@@ -1,0 +1,25 @@
+.birthdayinvite-heading {
+  margin: 10% 0;
+}
+.birthdayinvite-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.birthdayinvite-form-input,
+.birthdayinvite-form-submit {
+  margin: 10% 0;
+  margin: 10px 0;
+  padding: 5px;
+  font-size: 15px;
+  outline: none;
+  border: none;
+}
+.birthdayinvite-form-input {
+  border-bottom: 1px solid black;
+}
+.birthdayinvite-form-submit {
+  background-color: #333333;
+  color: white;
+}

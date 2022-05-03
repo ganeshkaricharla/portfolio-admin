@@ -1,0 +1,24 @@
+.single-message-container {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid #ccc;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.single-message-name {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.single-message-email {
+    font-size: 1rem;
+    color: #00000088;
+    text-transform: lowercase;
+}
+
+.single-message-message {
+    margin-top: 15px;
+}
